@@ -2,3 +2,5 @@ def fun():
     print('tom 做了一些工作')
 
 print('这是司马情况')
+
+hell kitty
